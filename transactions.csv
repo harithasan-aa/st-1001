@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,category
+TXN001,C101,150.50,Electronics
+TXN002,C102,45.00,Groceries
+TXN003,C101,99.99,Electronics
+TXN004,C103,,Clothing
+TXN005,C104,12.25,Groceries
